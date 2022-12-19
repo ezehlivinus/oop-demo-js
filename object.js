@@ -30,14 +30,12 @@ const mark = {
 
 const nancy = {
   firstName: 'Nancy',
-  lastName: 'Okeke',
   school: 'UNN',
   department: 'Economics',
   complexion: 'fair',
   canTalk: true,
   canCry: true,
   isLoveable: true,
-  age: 21,
   hasNiceVoice: true,
 
   walk() {
